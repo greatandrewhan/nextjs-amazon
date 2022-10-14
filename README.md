@@ -17,3 +17,11 @@ Run commands
 2. `yarn install`
 
 3. `yarn run dev`
+
+## Or using pnpm
+
+Run commands
+
+1. `pnpm install`
+
+2. `pnpm run dev`
